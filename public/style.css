@@ -1,0 +1,13 @@
+h1{
+    background-color: brown;
+}
+.post{
+    background-color: antiquewhite;
+}
+.user{
+    color: blueviolet;
+}
+.content{
+    color: aqua;
+    background-color: blue;
+}
